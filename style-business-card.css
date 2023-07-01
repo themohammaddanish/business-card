@@ -1,0 +1,19 @@
+body{
+  margin: 20px;
+  font-family: verdana;
+
+}
+.dan {
+  width: 150px;
+}
+.card {
+  width: 400px;
+  padding: 20px;
+  display: flex;
+  justify-content:space-around;
+  margin:0 auto;
+  text-align: center;
+  background-color: #ddebf8;
+  border-bottom: 6px solid #d8cefe;
+
+}
